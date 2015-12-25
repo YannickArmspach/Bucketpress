@@ -5,5 +5,5 @@
 * [Quick Start Guide](quick_start_guide.md)
 * [Change Log](change_log.md)
 * [Credits](credits.md)
-* File Structure
+* [File Structure](file_structure.md)
 
