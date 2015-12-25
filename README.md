@@ -1,4 +1,8 @@
 Wordpress OpenGraph
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Wordpress OpenGraph embed your website content directly in social network. Share your content with style ! 
+
+This plugin has unlimited embed card style. Share simple picture, slideshow, animated gif, mp4 vidéos, Youtube vidéo
+
+The Wordpress OpenGraph Plugin add the opengraph meta on your website. You can define OpenGraph presets and automaticaly apply on specific post. This plugin has extend parameters to attach media like pictures, gif, vidéo and custom players.
