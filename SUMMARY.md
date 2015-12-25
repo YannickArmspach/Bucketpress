@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Installation and Upgrade](installationand_upgrade_md.md)
 * [Quick Start Guide](quick_start_guide.md)
+* [File Structure](file_structure.md)
 * [Change Log](change_log.md)
 * [Credits](credits.md)
-* [File Structure](file_structure.md)
 
