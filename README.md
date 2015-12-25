@@ -1,5 +1,3 @@
----
-
 ****PLUGIN UNDER DEVELOPMENT****
 
 ---
