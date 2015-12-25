@@ -1,4 +1,8 @@
-****PLUGIN UNDER DEVELOPEMENT****
+---
+
+****PLUGIN UNDER DEVELOPMENT****
+
+---
 
 Wordpress OpenGraph
 =======
