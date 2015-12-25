@@ -1,9 +1,10 @@
-Wordpress OpenGraph
-=======
-
+<br/>
 <span style="color:#87C440;border:1px solid #87C440;padding:10px;">
 ****PLUGIN UNDER DEVELOPMENT****
 </span>
+
+Wordpress OpenGraph
+=======
 
 **Wordpress OpenGraph embed your website content directly in social network. Share your content with style ! **
 
