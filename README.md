@@ -3,7 +3,7 @@
 ****PLUGIN UNDER DEVELOPMENT****
 </span>
 
-Wordpress OpenGraph
+WP-OPENGRAPH
 =======
 
 **Wordpress OpenGraph embed your website content directly in social network. Share your content with style ! **
