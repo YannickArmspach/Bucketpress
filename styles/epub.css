@@ -1,7 +1,7 @@
 /* CSS for epub */
-.dir .calibre1{
-    padding: 0;
+.dir .calibre1 {
+    padding-left: 0px!important;
 }
-a{
-    border-bottom :none;
+a {
+    border-bottom :none!important;
 }
