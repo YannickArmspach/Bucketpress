@@ -1,8 +1,6 @@
 BucketPress
 =======
 
-![](bucketpress-icon-blue-1000.png)
+Manage all Bitbucket repositories directly in Wordpress. Choose one of your repositories in the list or add public repositories. Now, you can install or update it directly from your Wordpress admin.
 
-**Connect your Bitbucket account and install your repositories as plugins or themes.**
 
-Manage all Bitbucket repositories directly in Wordpress. Choose public or private repositories in the list, install and update it directly from your Wordpress admin.
