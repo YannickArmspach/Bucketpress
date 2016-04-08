@@ -1,3 +1,3 @@
 # Change Log
 
-**v1.0 :** INITIAL RELEASE
+**v1.0.0 :** INITIAL RELEASE
