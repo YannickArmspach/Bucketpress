@@ -1,11 +1,5 @@
 # Credits
 
-- **simple_html_dom** - html parse
-
-  Author: Yousuke Kumakura
-
-  Link : http://sourceforge.net/projects/simplehtmldom/
-
 - **wp_bucket** - Bitbucket API wrapper for Wordpress
 
   Author: Hadi Khosrojerdi
